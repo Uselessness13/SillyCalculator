@@ -46,6 +46,7 @@
 				8431BDB220715DD500E4591F /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 1;
 		};
 		8431BDB220715DD500E4591F /* Products */ = {
 			isa = PBXGroup;
